@@ -18,12 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include reproducibility, makerspaces, and supporting innovation and entrepreneurship.
+bio: Experienced Sciences Librarian with a demonstrated history of working in higher education with a specific interest in supporting reproducible research, open science, and innovation.
 
 interests:
 - Reproducibility
-- Evidence based practice
-- Entrepreneurship
+- Evidence-based decision making
 - Innovation
 
 education:
@@ -45,7 +44,7 @@ social:
   link: https://twitter.com/fdsayre
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=94GTHWIAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/fdsayre
@@ -66,4 +65,4 @@ user_groups:
 ---
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm an experienced science librarian passionate about supporting students and researchers achieve their goals. My research interests include how librarians and other information profesionals can support reproducible research, computational methods, open science, innovation, and entrepreneurship. I also run, cook, meditate, read, and endlessly plan trips.  
